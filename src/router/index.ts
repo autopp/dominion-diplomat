@@ -1,13 +1,13 @@
-import Vue from "vue";
-import BootstrapVue from 'bootstrap-vue';
-import VueRouter, { RouteConfig } from "vue-router";
-import Home from "../views/Home.vue";
+import Vue from "vue"
+import BootstrapVue from "bootstrap-vue"
+import VueRouter, { RouteConfig } from "vue-router"
+import Home from "../views/Home.vue"
 
-Vue.use(VueRouter);
-Vue.use(BootstrapVue);
+Vue.use(VueRouter)
+Vue.use(BootstrapVue)
 
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap-vue/dist/bootstrap-vue.css';
+import "bootstrap/dist/css/bootstrap.css"
+import "bootstrap-vue/dist/bootstrap-vue.css"
 
 const routes: Array<RouteConfig> = [
   {
@@ -24,12 +24,12 @@ const routes: Array<RouteConfig> = [
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/About.vue")
   }
-];
+]
 
 const router = new VueRouter({
   mode: "history",
   base: process.env.BASE_URL,
   routes
-});
+})
 
-export default router;
+export default router
