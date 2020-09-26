@@ -1,18 +1,26 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <MyTextarea :value="input" :readonly="false" @input="onInput" />
+    <MyTextarea :value="input" :readonly="true" @input="onInput" />
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator"
-import HelloWorld from "@/components/HelloWorld.vue" // @ is an alias to /src
+import HelloWorld from "@/components/HelloWorld.vue"
+import MyTextarea from "@/components/MyTextarea.vue"
 
 @Component({
   components: {
-    HelloWorld
+    HelloWorld,
+    MyTextarea
   }
 })
-export default class Home extends Vue {}
+export default class Home extends Vue {
+  input = ""
+
+  onInput(value: string) {
+    this.input = value
+  }
+}
 </script>
