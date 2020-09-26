@@ -1,0 +1,2352 @@
+{
+  "cards": [
+    {
+      "en": "Copper",
+      "ja": "銅貨"
+    },
+    {
+      "en": "Silver",
+      "ja": "銀貨"
+    },
+    {
+      "en": "Gold",
+      "ja": "金貨"
+    },
+    {
+      "en": "Estate",
+      "ja": "屋敷"
+    },
+    {
+      "en": "Duchy",
+      "ja": "公領"
+    },
+    {
+      "en": "Province",
+      "ja": "属州"
+    },
+    {
+      "en": "Curse",
+      "ja": "呪い"
+    },
+    {
+      "en": "Adventurer",
+      "ja": "冒険者"
+    },
+    {
+      "en": "Bureaucrat",
+      "ja": "役人"
+    },
+    {
+      "en": "Cellar",
+      "ja": "地下貯蔵庫"
+    },
+    {
+      "en": "Chancellor",
+      "ja": "宰相"
+    },
+    {
+      "en": "Chapel",
+      "ja": "礼拝堂"
+    },
+    {
+      "en": "Council Room",
+      "ja": "議事堂"
+    },
+    {
+      "en": "Feast",
+      "ja": "祝宴"
+    },
+    {
+      "en": "Festival",
+      "ja": "祝祭"
+    },
+    {
+      "en": "Gardens",
+      "ja": "庭園"
+    },
+    {
+      "en": "Laboratory",
+      "ja": "研究所"
+    },
+    {
+      "en": "Library",
+      "ja": "書庫"
+    },
+    {
+      "en": "Market",
+      "ja": "市場"
+    },
+    {
+      "en": "Militia",
+      "ja": "民兵"
+    },
+    {
+      "en": "Mine",
+      "ja": "鉱山"
+    },
+    {
+      "en": "Moat",
+      "ja": "堀"
+    },
+    {
+      "en": "Moneylender",
+      "ja": "金貸し"
+    },
+    {
+      "en": "Remodel",
+      "ja": "改築"
+    },
+    {
+      "en": "Smithy",
+      "ja": "鍛冶屋"
+    },
+    {
+      "en": "Spy",
+      "ja": "密偵"
+    },
+    {
+      "en": "Thief",
+      "ja": "泥棒"
+    },
+    {
+      "en": "Throne Room",
+      "ja": "玉座の間"
+    },
+    {
+      "en": "Village",
+      "ja": "村"
+    },
+    {
+      "en": "Witch",
+      "ja": "魔女"
+    },
+    {
+      "en": "Woodcutter",
+      "ja": "木こり"
+    },
+    {
+      "en": "Workshop",
+      "ja": "工房"
+    },
+    {
+      "en": "Baron",
+      "ja": "男爵"
+    },
+    {
+      "en": "Bridge",
+      "ja": "橋"
+    },
+    {
+      "en": "Conspirator",
+      "ja": "共謀者"
+    },
+    {
+      "en": "Coppersmith",
+      "ja": "銅細工師"
+    },
+    {
+      "en": "Courtyard",
+      "ja": "中庭"
+    },
+    {
+      "en": "Duke",
+      "ja": "公爵"
+    },
+    {
+      "en": "Great Hall",
+      "ja": "大広間"
+    },
+    {
+      "en": "Harem",
+      "ja": "ハーレム"
+    },
+    {
+      "en": "Ironworks",
+      "ja": "鉄工所"
+    },
+    {
+      "en": "Masquerade",
+      "ja": "仮面舞踏会"
+    },
+    {
+      "en": "Mining Village",
+      "ja": "鉱山の村"
+    },
+    {
+      "en": "Minion",
+      "ja": "寵臣"
+    },
+    {
+      "en": "Nobles",
+      "ja": "貴族"
+    },
+    {
+      "en": "Pawn",
+      "ja": "手先"
+    },
+    {
+      "en": "Saboteur",
+      "ja": "破壊工作員"
+    },
+    {
+      "en": "Scout",
+      "ja": "偵察員"
+    },
+    {
+      "en": "Secret Chamber",
+      "ja": "秘密の部屋"
+    },
+    {
+      "en": "Shanty Town",
+      "ja": "貧民街"
+    },
+    {
+      "en": "Steward",
+      "ja": "執事"
+    },
+    {
+      "en": "Swindler",
+      "ja": "詐欺師"
+    },
+    {
+      "en": "Torturer",
+      "ja": "拷問人"
+    },
+    {
+      "en": "Trading Post",
+      "ja": "交易場"
+    },
+    {
+      "en": "Tribute",
+      "ja": "貢物"
+    },
+    {
+      "en": "Upgrade",
+      "ja": "改良"
+    },
+    {
+      "en": "Wishing Well",
+      "ja": "願いの井戸"
+    },
+    {
+      "en": "Ambassador",
+      "ja": "大使"
+    },
+    {
+      "en": "Bazaar",
+      "ja": "バザー"
+    },
+    {
+      "en": "Caravan",
+      "ja": "隊商"
+    },
+    {
+      "en": "Cutpurse",
+      "ja": "巾着切り"
+    },
+    {
+      "en": "Embargo",
+      "ja": "抑留"
+    },
+    {
+      "en": "Explorer",
+      "ja": "探検家"
+    },
+    {
+      "en": "Fishing Village",
+      "ja": "漁村"
+    },
+    {
+      "en": "Ghost Ship",
+      "ja": "幽霊船"
+    },
+    {
+      "en": "Haven",
+      "ja": "停泊所"
+    },
+    {
+      "en": "Island",
+      "ja": "島"
+    },
+    {
+      "en": "Lighthouse",
+      "ja": "灯台"
+    },
+    {
+      "en": "Lookout",
+      "ja": "見張り"
+    },
+    {
+      "en": "Merchant Ship",
+      "ja": "商船"
+    },
+    {
+      "en": "Native Village",
+      "ja": "原住民の村"
+    },
+    {
+      "en": "Navigator",
+      "ja": "航海士"
+    },
+    {
+      "en": "Outpost",
+      "ja": "前哨地"
+    },
+    {
+      "en": "Pearl Diver",
+      "ja": "真珠採り"
+    },
+    {
+      "en": "Pirate Ship",
+      "ja": "海賊船"
+    },
+    {
+      "en": "Salvager",
+      "ja": "引揚水夫"
+    },
+    {
+      "en": "Sea Hag",
+      "ja": "海の妖婆"
+    },
+    {
+      "en": "Smugglers",
+      "ja": "密輸人"
+    },
+    {
+      "en": "Tactician",
+      "ja": "策士"
+    },
+    {
+      "en": "Treasure Map",
+      "ja": "宝の地図"
+    },
+    {
+      "en": "Treasury",
+      "ja": "宝物庫"
+    },
+    {
+      "en": "Warehouse",
+      "ja": "倉庫"
+    },
+    {
+      "en": "Wharf",
+      "ja": "船着場"
+    },
+    {
+      "en": "Envoy",
+      "ja": "公使"
+    },
+    {
+      "en": "Black Market",
+      "ja": "闇市場"
+    },
+    {
+      "en": "Stash",
+      "ja": "へそくり"
+    },
+    {
+      "en": "Alchemist",
+      "ja": "錬金術師"
+    },
+    {
+      "en": "Apothecary",
+      "ja": "薬師"
+    },
+    {
+      "en": "Apprentice",
+      "ja": "弟子"
+    },
+    {
+      "en": "Familiar",
+      "ja": "使い魔"
+    },
+    {
+      "en": "Golem",
+      "ja": "ゴーレム"
+    },
+    {
+      "en": "Herbalist",
+      "ja": "薬草商"
+    },
+    {
+      "en": "Philosopher's Stone",
+      "ja": "賢者の石"
+    },
+    {
+      "en": "Possession",
+      "ja": "支配"
+    },
+    {
+      "en": "Potion",
+      "ja": "ポーション"
+    },
+    {
+      "en": "Scrying Pool",
+      "ja": "念視の泉"
+    },
+    {
+      "en": "Transmute",
+      "ja": "変成"
+    },
+    {
+      "en": "University",
+      "ja": "大学"
+    },
+    {
+      "en": "Vineyard",
+      "ja": "ブドウ園"
+    },
+    {
+      "en": "Bank",
+      "ja": "銀行"
+    },
+    {
+      "en": "Bishop",
+      "ja": "司教"
+    },
+    {
+      "en": "City",
+      "ja": "都市"
+    },
+    {
+      "en": "Colony",
+      "ja": "植民地"
+    },
+    {
+      "en": "Contraband",
+      "ja": "禁制品"
+    },
+    {
+      "en": "Counting House",
+      "ja": "会計所"
+    },
+    {
+      "en": "Expand",
+      "ja": "拡張"
+    },
+    {
+      "en": "Forge",
+      "ja": "鍛造"
+    },
+    {
+      "en": "Goons",
+      "ja": "ならず者"
+    },
+    {
+      "en": "Grand Market",
+      "ja": "大市場"
+    },
+    {
+      "en": "Hoard",
+      "ja": "隠し財産"
+    },
+    {
+      "en": "King's Court",
+      "ja": "宮廷"
+    },
+    {
+      "en": "Loan",
+      "ja": "借金"
+    },
+    {
+      "en": "Mint",
+      "ja": "造幣所"
+    },
+    {
+      "en": "Monument",
+      "ja": "記念碑"
+    },
+    {
+      "en": "Mountebank",
+      "ja": "香具師"
+    },
+    {
+      "en": "Peddler",
+      "ja": "行商人"
+    },
+    {
+      "en": "Platinum",
+      "ja": "白金貨"
+    },
+    {
+      "en": "Quarry",
+      "ja": "石切場"
+    },
+    {
+      "en": "Rabble",
+      "ja": "大衆"
+    },
+    {
+      "en": "Royal Seal",
+      "ja": "玉璽"
+    },
+    {
+      "en": "Talisman",
+      "ja": "護符"
+    },
+    {
+      "en": "Trade Route",
+      "ja": "交易路"
+    },
+    {
+      "en": "Vault",
+      "ja": "保管庫"
+    },
+    {
+      "en": "Venture",
+      "ja": "投機"
+    },
+    {
+      "en": "Watchtower",
+      "ja": "望楼"
+    },
+    {
+      "en": "Worker's Village",
+      "ja": "労働者の村"
+    },
+    {
+      "en": "Bag of Gold",
+      "ja": "金貨袋"
+    },
+    {
+      "en": "Diadem",
+      "ja": "王冠"
+    },
+    {
+      "en": "Fairgrounds",
+      "ja": "品評会"
+    },
+    {
+      "en": "Farming Village",
+      "ja": "農村"
+    },
+    {
+      "en": "Followers",
+      "ja": "郎党"
+    },
+    {
+      "en": "Fortune Teller",
+      "ja": "占い師"
+    },
+    {
+      "en": "Hamlet",
+      "ja": "村落"
+    },
+    {
+      "en": "Harvest",
+      "ja": "収穫"
+    },
+    {
+      "en": "Horn of Plenty",
+      "ja": "豊穣の角笛"
+    },
+    {
+      "en": "Horse Traders",
+      "ja": "馬商人"
+    },
+    {
+      "en": "Hunting Party",
+      "ja": "狩猟団"
+    },
+    {
+      "en": "Jester",
+      "ja": "道化師"
+    },
+    {
+      "en": "Menagerie",
+      "ja": "移動動物園"
+    },
+    {
+      "en": "Princess",
+      "ja": "王女"
+    },
+    {
+      "en": "Remake",
+      "ja": "再建"
+    },
+    {
+      "en": "Tournament",
+      "ja": "馬上槍試合"
+    },
+    {
+      "en": "Trusty Steed",
+      "ja": "名馬"
+    },
+    {
+      "en": "Young Witch",
+      "ja": "魔女娘"
+    },
+    {
+      "en": "Border Village",
+      "ja": "国境の村"
+    },
+    {
+      "en": "Cache",
+      "ja": "埋蔵金"
+    },
+    {
+      "en": "Cartographer",
+      "ja": "地図職人"
+    },
+    {
+      "en": "Crossroads",
+      "ja": "岐路"
+    },
+    {
+      "en": "Develop",
+      "ja": "開発"
+    },
+    {
+      "en": "Duchess",
+      "ja": "公爵夫人"
+    },
+    {
+      "en": "Embassy",
+      "ja": "大使館"
+    },
+    {
+      "en": "Farmland",
+      "ja": "農地"
+    },
+    {
+      "en": "Fool's Gold",
+      "ja": "愚者の黄金"
+    },
+    {
+      "en": "Haggler",
+      "ja": "値切り屋"
+    },
+    {
+      "en": "Highway",
+      "ja": "街道"
+    },
+    {
+      "en": "Ill-Gotten Gains",
+      "ja": "不正利得"
+    },
+    {
+      "en": "Inn",
+      "ja": "宿屋"
+    },
+    {
+      "en": "Jack of All Trades",
+      "ja": "よろずや"
+    },
+    {
+      "en": "Mandarin",
+      "ja": "官吏"
+    },
+    {
+      "en": "Margrave",
+      "ja": "辺境伯"
+    },
+    {
+      "en": "Noble Brigand",
+      "ja": "義賊"
+    },
+    {
+      "en": "Nomad Camp",
+      "ja": "遊牧民の野営地"
+    },
+    {
+      "en": "Oasis",
+      "ja": "オアシス"
+    },
+    {
+      "en": "Oracle",
+      "ja": "神託"
+    },
+    {
+      "en": "Scheme",
+      "ja": "画策"
+    },
+    {
+      "en": "Silk Road",
+      "ja": "シルクロード"
+    },
+    {
+      "en": "Spice Merchant",
+      "ja": "香辛料商人"
+    },
+    {
+      "en": "Stables",
+      "ja": "厩舎"
+    },
+    {
+      "en": "Trader",
+      "ja": "交易人"
+    },
+    {
+      "en": "Tunnel",
+      "ja": "坑道"
+    },
+    {
+      "en": "Walled Village",
+      "ja": "囲郭村"
+    },
+    {
+      "en": "Governor",
+      "ja": "総督"
+    },
+    {
+      "en": "Abandoned Mine",
+      "ja": "廃坑"
+    },
+    {
+      "en": "Altar",
+      "ja": "祭壇"
+    },
+    {
+      "en": "Armory",
+      "ja": "武器庫"
+    },
+    {
+      "en": "Band of Misfits",
+      "ja": "はみだし者"
+    },
+    {
+      "en": "Bandit Camp",
+      "ja": "山賊の宿営地"
+    },
+    {
+      "en": "Beggar",
+      "ja": "物乞い"
+    },
+    {
+      "en": "Catacombs",
+      "ja": "地下墓所"
+    },
+    {
+      "en": "Count",
+      "ja": "伯爵"
+    },
+    {
+      "en": "Counterfeit",
+      "ja": "偽造通貨"
+    },
+    {
+      "en": "Cultist",
+      "ja": "狂信者"
+    },
+    {
+      "en": "Death Cart",
+      "ja": "死の荷車"
+    },
+    {
+      "en": "Feodum",
+      "ja": "封土"
+    },
+    {
+      "en": "Forager",
+      "ja": "採集者"
+    },
+    {
+      "en": "Fortress",
+      "ja": "城塞"
+    },
+    {
+      "en": "Graverobber",
+      "ja": "墓暴き"
+    },
+    {
+      "en": "Hermit",
+      "ja": "隠遁者"
+    },
+    {
+      "en": "Hovel",
+      "ja": "納屋"
+    },
+    {
+      "en": "Hunting Grounds",
+      "ja": "狩場"
+    },
+    {
+      "en": "Ironmonger",
+      "ja": "金物商"
+    },
+    {
+      "en": "Junk Dealer",
+      "ja": "屑屋"
+    },
+    {
+      "en": "Dame Anna",
+      "ja": "デイム・アンナ"
+    },
+    {
+      "en": "Dame Josephine",
+      "ja": "デイム・ジョセフィーヌ"
+    },
+    {
+      "en": "Dame Molly",
+      "ja": "デイム・モリー"
+    },
+    {
+      "en": "Dame Natalie",
+      "ja": "デイム・ナタリー"
+    },
+    {
+      "en": "Dame Sylvia",
+      "ja": "デイム・シルビア"
+    },
+    {
+      "en": "Sir Bailey",
+      "ja": "サー・ベイリー"
+    },
+    {
+      "en": "Sir Destry",
+      "ja": "サー・デストリー"
+    },
+    {
+      "en": "Sir Martin",
+      "ja": "サー・マーチン"
+    },
+    {
+      "en": "Sir Michael",
+      "ja": "サー・マイケル"
+    },
+    {
+      "en": "Sir Vander",
+      "ja": "サー・ヴァンデル"
+    },
+    {
+      "en": "Madman",
+      "ja": "狂人"
+    },
+    {
+      "en": "Marauder",
+      "ja": "襲撃者"
+    },
+    {
+      "en": "Market Square",
+      "ja": "青空市場"
+    },
+    {
+      "en": "Mercenary",
+      "ja": "傭兵"
+    },
+    {
+      "en": "Mystic",
+      "ja": "秘術師"
+    },
+    {
+      "en": "Necropolis",
+      "ja": "共同墓地"
+    },
+    {
+      "en": "Overgrown Estate",
+      "ja": "草茂る屋敷"
+    },
+    {
+      "en": "Pillage",
+      "ja": "略奪"
+    },
+    {
+      "en": "Poor House",
+      "ja": "救貧院"
+    },
+    {
+      "en": "Procession",
+      "ja": "行進"
+    },
+    {
+      "en": "Rats",
+      "ja": "ネズミ"
+    },
+    {
+      "en": "Rebuild",
+      "ja": "建て直し"
+    },
+    {
+      "en": "Rogue",
+      "ja": "盗賊"
+    },
+    {
+      "en": "Ruined Library",
+      "ja": "図書館跡地"
+    },
+    {
+      "en": "Ruined Market",
+      "ja": "市場跡地"
+    },
+    {
+      "en": "Ruined Village",
+      "ja": "廃村"
+    },
+    {
+      "en": "Sage",
+      "ja": "賢者"
+    },
+    {
+      "en": "Scavenger",
+      "ja": "ゴミあさり"
+    },
+    {
+      "en": "Spoils",
+      "ja": "略奪品"
+    },
+    {
+      "en": "Squire",
+      "ja": "従者"
+    },
+    {
+      "en": "Storeroom",
+      "ja": "物置"
+    },
+    {
+      "en": "Survivors",
+      "ja": "生存者"
+    },
+    {
+      "en": "Urchin",
+      "ja": "浮浪児"
+    },
+    {
+      "en": "Vagrant",
+      "ja": "浮浪者"
+    },
+    {
+      "en": "Wandering Minstrel",
+      "ja": "吟遊詩人"
+    },
+    {
+      "en": "Advisor",
+      "ja": "助言者"
+    },
+    {
+      "en": "Baker",
+      "ja": "パン屋"
+    },
+    {
+      "en": "Butcher",
+      "ja": "肉屋"
+    },
+    {
+      "en": "Candlestick Maker",
+      "ja": "蝋燭職人"
+    },
+    {
+      "en": "Doctor",
+      "ja": "医者"
+    },
+    {
+      "en": "Herald",
+      "ja": "伝令官"
+    },
+    {
+      "en": "Journeyman",
+      "ja": "熟練工"
+    },
+    {
+      "en": "Masterpiece",
+      "ja": "名品"
+    },
+    {
+      "en": "Merchant Guild",
+      "ja": "商人ギルド"
+    },
+    {
+      "en": "Plaza",
+      "ja": "広場"
+    },
+    {
+      "en": "Soothsayer",
+      "ja": "予言者"
+    },
+    {
+      "en": "Stonemason",
+      "ja": "石工"
+    },
+    {
+      "en": "Taxman",
+      "ja": "収税吏"
+    },
+    {
+      "en": "Prince",
+      "ja": "王子"
+    },
+    {
+      "en": "Amulet",
+      "ja": "魔除け"
+    },
+    {
+      "en": "Artificer",
+      "ja": "工匠"
+    },
+    {
+      "en": "Bridge Troll",
+      "ja": "橋の下のトロル"
+    },
+    {
+      "en": "Caravan Guard",
+      "ja": "隊商の護衛"
+    },
+    {
+      "en": "Coin of the Realm",
+      "ja": "法貨"
+    },
+    {
+      "en": "Distant Lands",
+      "ja": "遠隔地"
+    },
+    {
+      "en": "Dungeon",
+      "ja": "地下牢"
+    },
+    {
+      "en": "Duplicate",
+      "ja": "複製"
+    },
+    {
+      "en": "Gear",
+      "ja": "道具"
+    },
+    {
+      "en": "Giant",
+      "ja": "巨人"
+    },
+    {
+      "en": "Guide",
+      "ja": "案内人"
+    },
+    {
+      "en": "Haunted Woods",
+      "ja": "呪いの森"
+    },
+    {
+      "en": "Hireling",
+      "ja": "雇人"
+    },
+    {
+      "en": "Lost City",
+      "ja": "失われし都市"
+    },
+    {
+      "en": "Magpie",
+      "ja": "カササギ"
+    },
+    {
+      "en": "Messenger",
+      "ja": "使者"
+    },
+    {
+      "en": "Miser",
+      "ja": "守銭奴"
+    },
+    {
+      "en": "Page",
+      "ja": "騎士見習い"
+    },
+    {
+      "en": "Peasant",
+      "ja": "農民"
+    },
+    {
+      "en": "Port",
+      "ja": "港町"
+    },
+    {
+      "en": "Ranger",
+      "ja": "山守"
+    },
+    {
+      "en": "Ratcatcher",
+      "ja": "鼠取り"
+    },
+    {
+      "en": "Raze",
+      "ja": "倒壊"
+    },
+    {
+      "en": "Relic",
+      "ja": "遺物"
+    },
+    {
+      "en": "Royal Carriage",
+      "ja": "御料車"
+    },
+    {
+      "en": "Storyteller",
+      "ja": "語り部"
+    },
+    {
+      "en": "Swamp Hag",
+      "ja": "沼の妖婆"
+    },
+    {
+      "en": "Transmogrify",
+      "ja": "変容"
+    },
+    {
+      "en": "Treasure Trove",
+      "ja": "掘出物"
+    },
+    {
+      "en": "Wine Merchant",
+      "ja": "ワイン商"
+    },
+    {
+      "en": "Alms",
+      "ja": "施し"
+    },
+    {
+      "en": "Ball",
+      "ja": "舞踏会"
+    },
+    {
+      "en": "Bonfire",
+      "ja": "焚火"
+    },
+    {
+      "en": "Borrow",
+      "ja": "借入"
+    },
+    {
+      "en": "Expedition",
+      "ja": "探検"
+    },
+    {
+      "en": "Ferry",
+      "ja": "渡し船"
+    },
+    {
+      "en": "Inheritance",
+      "ja": "相続"
+    },
+    {
+      "en": "Lost Arts",
+      "ja": "失われた技術"
+    },
+    {
+      "en": "Mission",
+      "ja": "使節団"
+    },
+    {
+      "en": "Pathfinding",
+      "ja": "誘導"
+    },
+    {
+      "en": "Pilgrimage",
+      "ja": "巡礼"
+    },
+    {
+      "en": "Plan",
+      "ja": "立案"
+    },
+    {
+      "en": "Quest",
+      "ja": "探索"
+    },
+    {
+      "en": "Raid",
+      "ja": "奇襲"
+    },
+    {
+      "en": "Save",
+      "ja": "保存"
+    },
+    {
+      "en": "Scouting Party",
+      "ja": "偵察隊"
+    },
+    {
+      "en": "Seaway",
+      "ja": "海路"
+    },
+    {
+      "en": "Trade",
+      "ja": "交易"
+    },
+    {
+      "en": "Training",
+      "ja": "鍛錬"
+    },
+    {
+      "en": "Travelling Fair",
+      "ja": "移動遊園地"
+    },
+    {
+      "en": "Champion",
+      "ja": "チャンピオン"
+    },
+    {
+      "en": "Disciple",
+      "ja": "門下生"
+    },
+    {
+      "en": "Fugitive",
+      "ja": "脱走兵"
+    },
+    {
+      "en": "Hero",
+      "ja": "ヒーロー"
+    },
+    {
+      "en": "Soldier",
+      "ja": "兵士"
+    },
+    {
+      "en": "Teacher",
+      "ja": "教師"
+    },
+    {
+      "en": "Treasure Hunter",
+      "ja": "トレジャーハンター"
+    },
+    {
+      "en": "Warrior",
+      "ja": "ウォリアー"
+    },
+    {
+      "en": "Summon",
+      "ja": "召喚"
+    },
+    {
+      "en": "Archive",
+      "ja": "資料庫"
+    },
+    {
+      "en": "Bustling Village",
+      "ja": "騒がしい村"
+    },
+    {
+      "en": "Capital",
+      "ja": "元手"
+    },
+    {
+      "en": "Humble Castle",
+      "ja": "粗末な城"
+    },
+    {
+      "en": "Crumbling Castle",
+      "ja": "崩れた城"
+    },
+    {
+      "en": "Small Castle",
+      "ja": "小さい城"
+    },
+    {
+      "en": "Haunted Castle",
+      "ja": "幽霊城"
+    },
+    {
+      "en": "Opulent Castle",
+      "ja": "華やかな城"
+    },
+    {
+      "en": "Sprawling Castle",
+      "ja": "広大な城"
+    },
+    {
+      "en": "Grand Castle",
+      "ja": "壮大な城"
+    },
+    {
+      "en": "King's Castle",
+      "ja": "王城"
+    },
+    {
+      "en": "Catapult",
+      "ja": "投石機"
+    },
+    {
+      "en": "Chariot Race",
+      "ja": "戦車競走"
+    },
+    {
+      "en": "Charm",
+      "ja": "御守り"
+    },
+    {
+      "en": "City Quarter",
+      "ja": "市街"
+    },
+    {
+      "en": "Crown",
+      "ja": "冠"
+    },
+    {
+      "en": "Emporium",
+      "ja": "エンポリウム"
+    },
+    {
+      "en": "Encampment",
+      "ja": "陣地"
+    },
+    {
+      "en": "Enchantress",
+      "ja": "女魔術師"
+    },
+    {
+      "en": "Engineer",
+      "ja": "技術者"
+    },
+    {
+      "en": "Farmers' Market",
+      "ja": "農家の市場"
+    },
+    {
+      "en": "Fortune",
+      "ja": "大金"
+    },
+    {
+      "en": "Forum",
+      "ja": "公共広場"
+    },
+    {
+      "en": "Gladiator",
+      "ja": "剣闘士"
+    },
+    {
+      "en": "Groundskeeper",
+      "ja": "庭師"
+    },
+    {
+      "en": "Legionary",
+      "ja": "軍団兵"
+    },
+    {
+      "en": "Royal Blacksmith",
+      "ja": "王室の鍛冶屋"
+    },
+    {
+      "en": "Overlord",
+      "ja": "大君主"
+    },
+    {
+      "en": "Patrician",
+      "ja": "パトリキ"
+    },
+    {
+      "en": "Plunder",
+      "ja": "鹵獲品"
+    },
+    {
+      "en": "Rocks",
+      "ja": "石"
+    },
+    {
+      "en": "Sacrifice",
+      "ja": "生贄"
+    },
+    {
+      "en": "Settlers",
+      "ja": "開拓者"
+    },
+    {
+      "en": "Temple",
+      "ja": "神殿"
+    },
+    {
+      "en": "Villa",
+      "ja": "ヴィラ"
+    },
+    {
+      "en": "Wild Hunt",
+      "ja": "ワイルドハント"
+    },
+    {
+      "en": "Advance",
+      "ja": "昇進"
+    },
+    {
+      "en": "Annex",
+      "ja": "併合"
+    },
+    {
+      "en": "Banquet",
+      "ja": "宴会"
+    },
+    {
+      "en": "Conquest",
+      "ja": "征服"
+    },
+    {
+      "en": "Delve",
+      "ja": "掘進"
+    },
+    {
+      "en": "Dominate",
+      "ja": "制圧"
+    },
+    {
+      "en": "Donate",
+      "ja": "寄付"
+    },
+    {
+      "en": "Ritual",
+      "ja": "儀式"
+    },
+    {
+      "en": "Salt the Earth",
+      "ja": "大地への塩まき"
+    },
+    {
+      "en": "Tax",
+      "ja": "徴税"
+    },
+    {
+      "en": "Triumph",
+      "ja": "凱旋"
+    },
+    {
+      "en": "Wedding",
+      "ja": "結婚式"
+    },
+    {
+      "en": "Windfall",
+      "ja": "意外な授かり物"
+    },
+    {
+      "en": "Aqueduct",
+      "ja": "水道橋"
+    },
+    {
+      "en": "Arena",
+      "ja": "闘技場"
+    },
+    {
+      "en": "Bandit Fort",
+      "ja": "山賊の砦"
+    },
+    {
+      "en": "Basilica",
+      "ja": "公会堂"
+    },
+    {
+      "en": "Baths",
+      "ja": "浴場"
+    },
+    {
+      "en": "Battlefield",
+      "ja": "戦場"
+    },
+    {
+      "en": "Colonnade",
+      "ja": "列柱"
+    },
+    {
+      "en": "Defiled Shrine",
+      "ja": "汚された神殿"
+    },
+    {
+      "en": "Fountain",
+      "ja": "噴水"
+    },
+    {
+      "en": "Keep",
+      "ja": "砦"
+    },
+    {
+      "en": "Labyrinth",
+      "ja": "迷宮"
+    },
+    {
+      "en": "Mountain Pass",
+      "ja": "峠"
+    },
+    {
+      "en": "Museum",
+      "ja": "博物館"
+    },
+    {
+      "en": "Obelisk",
+      "ja": "オベリスク"
+    },
+    {
+      "en": "Orchard",
+      "ja": "果樹園"
+    },
+    {
+      "en": "Palace",
+      "ja": "宮殿"
+    },
+    {
+      "en": "Tomb",
+      "ja": "墓標"
+    },
+    {
+      "en": "Tower",
+      "ja": "塔"
+    },
+    {
+      "en": "Triumphal Arch",
+      "ja": "凱旋門"
+    },
+    {
+      "en": "Wall",
+      "ja": "壁"
+    },
+    {
+      "en": "Wolf Den",
+      "ja": "狼の巣"
+    },
+    {
+      "en": "Sauna",
+      "ja": "サウナ"
+    },
+    {
+      "en": "Avanto",
+      "ja": "アヴァント"
+    },
+    {
+      "en": "Artisan",
+      "ja": "職人"
+    },
+    {
+      "en": "Bandit",
+      "ja": "山賊"
+    },
+    {
+      "en": "Harbinger",
+      "ja": "前駆者"
+    },
+    {
+      "en": "Merchant",
+      "ja": "商人"
+    },
+    {
+      "en": "Poacher",
+      "ja": "密猟者"
+    },
+    {
+      "en": "Sentry",
+      "ja": "衛兵"
+    },
+    {
+      "en": "Vassal",
+      "ja": "家臣"
+    },
+    {
+      "en": "Courtier",
+      "ja": "廷臣"
+    },
+    {
+      "en": "Diplomat",
+      "ja": "外交官"
+    },
+    {
+      "en": "Lurker",
+      "ja": "待ち伏せ"
+    },
+    {
+      "en": "Mill",
+      "ja": "風車"
+    },
+    {
+      "en": "Patrol",
+      "ja": "パトロール"
+    },
+    {
+      "en": "Replace",
+      "ja": "身代わり"
+    },
+    {
+      "en": "Secret Passage",
+      "ja": "隠し通路"
+    },
+    {
+      "en": "Bard",
+      "ja": "詩人"
+    },
+    {
+      "en": "Blessed Village",
+      "ja": "恵みの村"
+    },
+    {
+      "en": "Cemetery",
+      "ja": "墓地"
+    },
+    {
+      "en": "Changeling",
+      "ja": "取り替え子"
+    },
+    {
+      "en": "Cobbler",
+      "ja": "カブラー"
+    },
+    {
+      "en": "Conclave",
+      "ja": "コンクラーベ"
+    },
+    {
+      "en": "Crypt",
+      "ja": "納骨堂"
+    },
+    {
+      "en": "Cursed Village",
+      "ja": "呪われた村"
+    },
+    {
+      "en": "Den of Sin",
+      "ja": "悪人のアジト"
+    },
+    {
+      "en": "Devil's Workshop",
+      "ja": "悪魔の工房"
+    },
+    {
+      "en": "Druid",
+      "ja": "ドルイド"
+    },
+    {
+      "en": "Exorcist",
+      "ja": "悪魔祓い"
+    },
+    {
+      "en": "Faithful Hound",
+      "ja": "忠犬"
+    },
+    {
+      "en": "Fool",
+      "ja": "愚者"
+    },
+    {
+      "en": "Ghost Town",
+      "ja": "ゴーストタウン"
+    },
+    {
+      "en": "Guardian",
+      "ja": "守護者"
+    },
+    {
+      "en": "Idol",
+      "ja": "偶像"
+    },
+    {
+      "en": "Leprechaun",
+      "ja": "レプラコーン"
+    },
+    {
+      "en": "Monastery",
+      "ja": "修道院"
+    },
+    {
+      "en": "Necromancer",
+      "ja": "ネクロマンサー"
+    },
+    {
+      "en": "Night Watchman",
+      "ja": "夜警"
+    },
+    {
+      "en": "Pixie",
+      "ja": "ピクシー"
+    },
+    {
+      "en": "Pooka",
+      "ja": "プーカ"
+    },
+    {
+      "en": "Raider",
+      "ja": "夜襲"
+    },
+    {
+      "en": "Sacred Grove",
+      "ja": "聖なる木立ち"
+    },
+    {
+      "en": "Secret Cave",
+      "ja": "秘密の洞窟"
+    },
+    {
+      "en": "Shepherd",
+      "ja": "羊飼い"
+    },
+    {
+      "en": "Skulk",
+      "ja": "暗躍者"
+    },
+    {
+      "en": "Tormentor",
+      "ja": "迫害者"
+    },
+    {
+      "en": "Tracker",
+      "ja": "追跡者"
+    },
+    {
+      "en": "Tragic Hero",
+      "ja": "悲劇のヒーロー"
+    },
+    {
+      "en": "Vampire",
+      "ja": "吸血鬼"
+    },
+    {
+      "en": "Werewolf",
+      "ja": "人狼"
+    },
+    {
+      "en": "Bat",
+      "ja": "コウモリ"
+    },
+    {
+      "en": "Cursed Gold",
+      "ja": "呪われた金貨"
+    },
+    {
+      "en": "Ghost",
+      "ja": "幽霊"
+    },
+    {
+      "en": "Goat",
+      "ja": "ヤギ"
+    },
+    {
+      "en": "Haunted Mirror",
+      "ja": "呪いの鏡"
+    },
+    {
+      "en": "Imp",
+      "ja": "インプ"
+    },
+    {
+      "en": "Lucky Coin",
+      "ja": "幸運のコイン"
+    },
+    {
+      "en": "Magic Lamp",
+      "ja": "魔法のランプ"
+    },
+    {
+      "en": "Pasture",
+      "ja": "牧草地"
+    },
+    {
+      "en": "Pouch",
+      "ja": "革袋"
+    },
+    {
+      "en": "Will-o'-wisp",
+      "ja": "ウィル・オ・ウィスプ"
+    },
+    {
+      "en": "Wish",
+      "ja": "願い"
+    },
+    {
+      "en": "Zombie Apprentice",
+      "ja": "ゾンビの弟子"
+    },
+    {
+      "en": "Zombie Mason",
+      "ja": "ゾンビの石工"
+    },
+    {
+      "en": "Zombie Spy",
+      "ja": "ゾンビの密偵"
+    },
+    {
+      "en": "The Earth's Gift",
+      "ja": "大地の恵み"
+    },
+    {
+      "en": "The Field's Gift",
+      "ja": "田畑の恵み"
+    },
+    {
+      "en": "The Flame's Gift",
+      "ja": "炎の恵み"
+    },
+    {
+      "en": "The Forest's Gift",
+      "ja": "森の恵み"
+    },
+    {
+      "en": "The Moon's Gift",
+      "ja": "月の恵み"
+    },
+    {
+      "en": "The Mountain's Gift",
+      "ja": "山の恵み"
+    },
+    {
+      "en": "The River's Gift",
+      "ja": "川の恵み"
+    },
+    {
+      "en": "The Sea's Gift",
+      "ja": "海の恵み"
+    },
+    {
+      "en": "The Sky's Gift",
+      "ja": "空の恵み"
+    },
+    {
+      "en": "The Sun's Gift",
+      "ja": "太陽の恵み"
+    },
+    {
+      "en": "The Swamp's Gift",
+      "ja": "沼の恵み"
+    },
+    {
+      "en": "The Wind's Gift",
+      "ja": "風の恵み"
+    },
+    {
+      "en": "Bad Omens",
+      "ja": "凶兆"
+    },
+    {
+      "en": "Delusion",
+      "ja": "幻惑"
+    },
+    {
+      "en": "Envy",
+      "ja": "羨望"
+    },
+    {
+      "en": "Famine",
+      "ja": "飢饉"
+    },
+    {
+      "en": "Fear",
+      "ja": "恐怖"
+    },
+    {
+      "en": "Greed",
+      "ja": "貪欲"
+    },
+    {
+      "en": "Haunting",
+      "ja": "憑依"
+    },
+    {
+      "en": "Locusts",
+      "ja": "蝗害"
+    },
+    {
+      "en": "Misery",
+      "ja": "みじめな生活"
+    },
+    {
+      "en": "Plague",
+      "ja": "疫病"
+    },
+    {
+      "en": "Poverty",
+      "ja": "貧困"
+    },
+    {
+      "en": "War",
+      "ja": "戦争"
+    },
+    {
+      "en": "Lost in the Woods",
+      "ja": "森の迷子"
+    },
+    {
+      "en": "Deluded",
+      "ja": "錯乱"
+    },
+    {
+      "en": "Envious",
+      "ja": "嫉妬"
+    },
+    {
+      "en": "Miserable",
+      "ja": "生活苦"
+    },
+    {
+      "en": "Twice Miserable",
+      "ja": "二重苦"
+    },
+    {
+      "en": "Dismantle",
+      "ja": "取り壊し"
+    },
+    {
+      "en": "Acting Troupe",
+      "ja": "劇団"
+    },
+    {
+      "en": "Border Guard",
+      "ja": "国境警備隊"
+    },
+    {
+      "en": "Horn",
+      "ja": "角笛"
+    },
+    {
+      "en": "Lantern",
+      "ja": "ランタン"
+    },
+    {
+      "en": "Cargo Ship",
+      "ja": "貨物船"
+    },
+    {
+      "en": "Ducat",
+      "ja": "ドゥカート金貨"
+    },
+    {
+      "en": "Experiment",
+      "ja": "実験"
+    },
+    {
+      "en": "Flag Bearer",
+      "ja": "旗手"
+    },
+    {
+      "en": "Flag",
+      "ja": "旗"
+    },
+    {
+      "en": "Hideout",
+      "ja": "根城"
+    },
+    {
+      "en": "Improve",
+      "ja": "増築"
+    },
+    {
+      "en": "Inventor",
+      "ja": "発明家"
+    },
+    {
+      "en": "Lackeys",
+      "ja": "追従者"
+    },
+    {
+      "en": "Mountain Village",
+      "ja": "山村"
+    },
+    {
+      "en": "Old Witch",
+      "ja": "老魔女"
+    },
+    {
+      "en": "Patron",
+      "ja": "パトロン"
+    },
+    {
+      "en": "Priest",
+      "ja": "司祭"
+    },
+    {
+      "en": "Recruiter",
+      "ja": "徴募官"
+    },
+    {
+      "en": "Research",
+      "ja": "研究"
+    },
+    {
+      "en": "Scepter",
+      "ja": "王笏"
+    },
+    {
+      "en": "Scholar",
+      "ja": "学者"
+    },
+    {
+      "en": "Sculptor",
+      "ja": "彫刻家"
+    },
+    {
+      "en": "Seer",
+      "ja": "先見者"
+    },
+    {
+      "en": "Silk Merchant",
+      "ja": "絹商人"
+    },
+    {
+      "en": "Spices",
+      "ja": "香辛料"
+    },
+    {
+      "en": "Swashbuckler",
+      "ja": "剣客"
+    },
+    {
+      "en": "Treasure Chest",
+      "ja": "宝箱"
+    },
+    {
+      "en": "Treasurer",
+      "ja": "出納官"
+    },
+    {
+      "en": "Key",
+      "ja": "鍵"
+    },
+    {
+      "en": "Villain",
+      "ja": "悪党"
+    },
+    {
+      "en": "Academy",
+      "ja": "学園"
+    },
+    {
+      "en": "Barracks",
+      "ja": "兵舎"
+    },
+    {
+      "en": "Canal",
+      "ja": "運河"
+    },
+    {
+      "en": "Capitalism",
+      "ja": "資本主義"
+    },
+    {
+      "en": "Cathedral",
+      "ja": "大聖堂"
+    },
+    {
+      "en": "Citadel",
+      "ja": "山砦"
+    },
+    {
+      "en": "City Gate",
+      "ja": "城門"
+    },
+    {
+      "en": "Crop Rotation",
+      "ja": "輪作"
+    },
+    {
+      "en": "Exploration",
+      "ja": "探査"
+    },
+    {
+      "en": "Fair",
+      "ja": "縁日"
+    },
+    {
+      "en": "Fleet",
+      "ja": "艦隊"
+    },
+    {
+      "en": "Guildhall",
+      "ja": "ギルド集会所"
+    },
+    {
+      "en": "Innovation",
+      "ja": "技術革新"
+    },
+    {
+      "en": "Pageant",
+      "ja": "野外劇"
+    },
+    {
+      "en": "Piazza",
+      "ja": "ピアッツァ"
+    },
+    {
+      "en": "Road Network",
+      "ja": "道路網"
+    },
+    {
+      "en": "Sewers",
+      "ja": "下水道"
+    },
+    {
+      "en": "Silos",
+      "ja": "サイロ"
+    },
+    {
+      "en": "Sinister Plot",
+      "ja": "悪巧み"
+    },
+    {
+      "en": "Star Chart",
+      "ja": "星図"
+    },
+    {
+      "en": "Church",
+      "ja": "Church"
+    },
+    {
+      "en": "Captain",
+      "ja": "Captain"
+    },
+    {
+      "en": "Animal Fair",
+      "ja": "動物見本市"
+    },
+    {
+      "en": "Barge",
+      "ja": "艀"
+    },
+    {
+      "en": "Black Cat",
+      "ja": "黒猫"
+    },
+    {
+      "en": "Bounty Hunter",
+      "ja": "賞金稼ぎ"
+    },
+    {
+      "en": "Camel Train",
+      "ja": "ラクダの隊列"
+    },
+    {
+      "en": "Cardinal",
+      "ja": "枢機卿"
+    },
+    {
+      "en": "Cavalry",
+      "ja": "騎兵隊"
+    },
+    {
+      "en": "Coven",
+      "ja": "魔女の集会"
+    },
+    {
+      "en": "Destrier",
+      "ja": "デストリエ"
+    },
+    {
+      "en": "Displace",
+      "ja": "強制退去"
+    },
+    {
+      "en": "Falconer",
+      "ja": "鷹匠"
+    },
+    {
+      "en": "Fisherman",
+      "ja": "漁師"
+    },
+    {
+      "en": "Gatekeeper",
+      "ja": "門番"
+    },
+    {
+      "en": "Goatherd",
+      "ja": "ヤギ飼い"
+    },
+    {
+      "en": "Groom",
+      "ja": "馬丁"
+    },
+    {
+      "en": "Hostelry",
+      "ja": "旅籠"
+    },
+    {
+      "en": "Hunting Lodge",
+      "ja": "狩猟小屋"
+    },
+    {
+      "en": "Kiln",
+      "ja": "炉"
+    },
+    {
+      "en": "Livery",
+      "ja": "貸し馬屋"
+    },
+    {
+      "en": "Mastermind",
+      "ja": "首謀者"
+    },
+    {
+      "en": "Paddock",
+      "ja": "パドック"
+    },
+    {
+      "en": "Sanctuary",
+      "ja": "聖域"
+    },
+    {
+      "en": "Scrap",
+      "ja": "がらくた"
+    },
+    {
+      "en": "Sheepdog",
+      "ja": "牧羊犬"
+    },
+    {
+      "en": "Sleigh",
+      "ja": "そり"
+    },
+    {
+      "en": "Snowy Village",
+      "ja": "雪深い村"
+    },
+    {
+      "en": "Stockpile",
+      "ja": "備蓄品"
+    },
+    {
+      "en": "Supplies",
+      "ja": "配給品"
+    },
+    {
+      "en": "Village Green",
+      "ja": "村有緑地"
+    },
+    {
+      "en": "Wayfarer",
+      "ja": "行人"
+    },
+    {
+      "en": "Horse",
+      "ja": "馬"
+    },
+    {
+      "en": "Alliance",
+      "ja": "同盟"
+    },
+    {
+      "en": "Banish",
+      "ja": "放逐"
+    },
+    {
+      "en": "Bargain",
+      "ja": "特価品"
+    },
+    {
+      "en": "Commerce",
+      "ja": "商売"
+    },
+    {
+      "en": "Delay",
+      "ja": "遅延"
+    },
+    {
+      "en": "Demand",
+      "ja": "要求"
+    },
+    {
+      "en": "Desperation",
+      "ja": "絶望"
+    },
+    {
+      "en": "Enclave",
+      "ja": "包領"
+    },
+    {
+      "en": "Enhance",
+      "ja": "増大"
+    },
+    {
+      "en": "Gamble",
+      "ja": "博打"
+    },
+    {
+      "en": "Invest",
+      "ja": "投資"
+    },
+    {
+      "en": "March",
+      "ja": "進軍"
+    },
+    {
+      "en": "Populate",
+      "ja": "植民"
+    },
+    {
+      "en": "Pursue",
+      "ja": "追求"
+    },
+    {
+      "en": "Reap",
+      "ja": "刈り入れ"
+    },
+    {
+      "en": "Ride",
+      "ja": "乗馬"
+    },
+    {
+      "en": "Seize the Day",
+      "ja": "今を生きる"
+    },
+    {
+      "en": "Stampede",
+      "ja": "暴走"
+    },
+    {
+      "en": "Toil",
+      "ja": "苦労"
+    },
+    {
+      "en": "Transport",
+      "ja": "輸送"
+    },
+    {
+      "en": "Way of the Butterfly",
+      "ja": "チョウの習性"
+    },
+    {
+      "en": "Way of the Camel",
+      "ja": "ラクダの習性"
+    },
+    {
+      "en": "Way of the Chameleon",
+      "ja": "カメレオンの習性"
+    },
+    {
+      "en": "Way of the Frog",
+      "ja": "カエルの習性"
+    },
+    {
+      "en": "Way of the Goat",
+      "ja": "ヤギの習性"
+    },
+    {
+      "en": "Way of the Horse",
+      "ja": "馬の習性"
+    },
+    {
+      "en": "Way of the Mole",
+      "ja": "モグラの習性"
+    },
+    {
+      "en": "Way of the Monkey",
+      "ja": "サルの習性"
+    },
+    {
+      "en": "Way of the Mouse",
+      "ja": "ハツカネズミの習性"
+    },
+    {
+      "en": "Way of the Mule",
+      "ja": "ラバの習性"
+    },
+    {
+      "en": "Way of the Otter",
+      "ja": "カワウソの習性"
+    },
+    {
+      "en": "Way of the Owl",
+      "ja": "フクロウの習性"
+    },
+    {
+      "en": "Way of the Ox",
+      "ja": "雄牛の習性"
+    },
+    {
+      "en": "Way of the Pig",
+      "ja": "豚の習性"
+    },
+    {
+      "en": "Way of the Rat",
+      "ja": "ドブネズミの習性"
+    },
+    {
+      "en": "Way of the Seal",
+      "ja": "アザラシの習性"
+    },
+    {
+      "en": "Way of the Sheep",
+      "ja": "羊の習性"
+    },
+    {
+      "en": "Way of the Squirrel",
+      "ja": "リスの習性"
+    },
+    {
+      "en": "Way of the Turtle",
+      "ja": "ウミガメの習性"
+    },
+    {
+      "en": "Way of the Worm",
+      "ja": "ミミズの習性"
+    }
+  ]
+}
