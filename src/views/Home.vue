@@ -1,7 +1,20 @@
 <template>
-  <div class="home">
-    <MyTextarea :value="input" :readonly="false" @input="onInput" />
-    <MyTextarea :value="translate(input)" :readonly="true" />
+  <div class="container">
+    <div>
+      <MyTextarea
+        :value="input"
+        placeholder="Smithy, Remodel"
+        :readonly="false"
+        @input="onInput"
+      />
+    </div>
+    <div>
+      <MyTextarea
+        :value="translate(input)"
+        placeholder="鍛冶屋, 改築"
+        :readonly="true"
+      />
+    </div>
   </div>
 </template>
 

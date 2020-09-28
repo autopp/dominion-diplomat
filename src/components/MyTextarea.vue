@@ -1,6 +1,9 @@
 <template>
   <textarea
+    rows="3"
+    cols="50"
     :readonly="readonly"
+    :placeholder="placeholder"
     :value="value"
     @input="onInput($event.target.value)"
   >
@@ -13,6 +16,7 @@ import { Component, Prop, Vue } from "vue-property-decorator"
 @Component
 export default class MyTextarea extends Vue {
   @Prop() private value!: string
+  @Prop() private placeholder!: string
   @Prop() private readonly!: boolean
 
   onInput(value: string) {
