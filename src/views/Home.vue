@@ -15,6 +15,11 @@
         :readonly="true"
       />
     </div>
+    <div>
+      <button class="btn btn-primary" v-clipboard:copy="translate(input)">
+        copy
+      </button>
+    </div>
   </div>
 </template>
 
