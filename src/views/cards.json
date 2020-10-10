@@ -1554,7 +1554,8 @@
     },
     {
       "en": "Cemetery",
-      "ja": "墓地"
+      "ja": "墓地",
+      "heirloom": "呪いの鏡"
     },
     {
       "en": "Changeling",
@@ -1598,7 +1599,8 @@
     },
     {
       "en": "Fool",
-      "ja": "愚者"
+      "ja": "愚者",
+      "heirloom": "幸運のコイン"
     },
     {
       "en": "Ghost Town",
@@ -1630,11 +1632,13 @@
     },
     {
       "en": "Pixie",
-      "ja": "ピクシー"
+      "ja": "ピクシー",
+      "heirloom": "ヤギ"
     },
     {
       "en": "Pooka",
-      "ja": "プーカ"
+      "ja": "プーカ",
+      "heirloom": "呪われた金貨"
     },
     {
       "en": "Raider",
@@ -1646,11 +1650,13 @@
     },
     {
       "en": "Secret Cave",
-      "ja": "秘密の洞窟"
+      "ja": "秘密の洞窟",
+      "heirloom": "魔法のランプ"
     },
     {
       "en": "Shepherd",
-      "ja": "羊飼い"
+      "ja": "羊飼い",
+      "heirloom": "牧草地"
     },
     {
       "en": "Skulk",
@@ -1662,7 +1668,8 @@
     },
     {
       "en": "Tracker",
-      "ja": "追跡者"
+      "ja": "追跡者",
+      "heirloom": "革袋"
     },
     {
       "en": "Tragic Hero",
