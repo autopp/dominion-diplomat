@@ -45,7 +45,11 @@ export default class Home extends Vue {
     return words
       .map(w => {
         const card = cards.find(c => c.en === w)
-        return card ? card.ja : w
+
+        if (!card) {
+          return w
+        }
+        return card.heirloom ? `${card.ja}/${card.heirloom}` : card.ja
       })
       .join(", ")
   }
