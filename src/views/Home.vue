@@ -1,5 +1,14 @@
 <template>
   <div class="container">
+    <div class="form-check">
+      <input
+        type="checkbox"
+        class="form-check-input"
+        id="showHeirloom"
+        v-model="showHeirloom"
+      />
+      <label class="form-check-label" for="showHeirloom">家宝の表示</label>
+    </div>
     <div>
       <MyTextarea
         :value="input"
@@ -35,6 +44,7 @@ import { cards } from "./cards.json"
 })
 export default class Home extends Vue {
   input = ""
+  showHeirloom = true
 
   onInput(value: string) {
     this.input = value
@@ -49,7 +59,9 @@ export default class Home extends Vue {
         if (!card) {
           return w
         }
-        return card.heirloom ? `${card.ja}/${card.heirloom}` : card.ja
+        return this.showHeirloom && card.heirloom
+          ? `${card.ja}/${card.heirloom}`
+          : card.ja
       })
       .join(", ")
   }
