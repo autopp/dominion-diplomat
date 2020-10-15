@@ -19,13 +19,13 @@
     </div>
     <div>
       <MyTextarea
-        :value="translate(input)"
+        :value="translated"
         placeholder="鍛冶屋, 改築"
         :readonly="true"
       />
     </div>
     <div>
-      <button class="btn btn-primary" v-clipboard:copy="translate(input)">
+      <button class="btn btn-primary" v-clipboard:copy="translated">
         copy
       </button>
     </div>
@@ -50,8 +50,8 @@ export default class Home extends Vue {
     this.input = value
   }
 
-  translate(input: string): string {
-    const words = input.split(",").map(w => w.trim())
+  get translated(): string {
+    const words = this.input.split(",").map(w => w.trim())
     return words
       .map(w => {
         const card = cards.find(c => c.en === w)
