@@ -25,8 +25,13 @@
       />
     </div>
     <div>
-      <button class="btn btn-primary" v-clipboard:copy="translated">
-        copy
+      <button
+        class="btn btn-primary"
+        :class="copyButtonClass"
+        v-clipboard:copy="translated"
+        v-clipboard:success="onCopy"
+      >
+        {{ copyButtonText }}
       </button>
     </div>
   </div>
@@ -45,9 +50,15 @@ import { cards } from "./cards.json"
 export default class Home extends Vue {
   input = ""
   showHeirloom = true
+  copied = false
 
   onInput(value: string) {
     this.input = value
+    this.copied = false
+  }
+
+  onCopy() {
+    this.copied = true
   }
 
   get translated(): string {
@@ -64,6 +75,14 @@ export default class Home extends Vue {
           : card.ja
       })
       .join(", ")
+  }
+
+  get copyButtonText(): string {
+    return this.copied ? "Copied!" : "Copy"
+  }
+
+  get copyButtonClass(): string[] {
+    return this.copied ? ["btn-success"] : ["btn-primary"]
   }
 }
 </script>
